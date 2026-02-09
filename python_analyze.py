@@ -52,4 +52,4 @@ with open(name2, 'w', newline='', encoding='utf-8') as file:
         writer.writerows(table)
 
 
-print(tabulate(table, headers=table[0], tablefmt="grid"))
+print(tabulate(table, headers=[cols_to_remove[0],cols_to_remove[1]], tablefmt="grid"))
