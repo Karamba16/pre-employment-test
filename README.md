@@ -8,4 +8,5 @@
 ![Image alt](https://github.com/Karamba16/pre-employment-test/raw/StafIT/tests/test_3.png)
 ![Image alt](https://github.com/Karamba16/pre-employment-test/raw/StafIT/tests/test_4.png)
 ![Image alt](https://github.com/Karamba16/pre-employment-test/raw/StafIT/tests/test_5.png)
+    Итоговые файлы:
 ![Image alt](https://github.com/Karamba16/pre-employment-test/raw/StafIT/tests/files.png)
